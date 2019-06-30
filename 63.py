@@ -1,2 +1,2 @@
-k=list(map(int,input().split()))
-print(min(k))
+r=list(map(int,input().split()))
+print(min(r))

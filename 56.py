@@ -8,6 +8,6 @@ for i in range(0,m):
     if(k[i].isnumeric()):
        l=l+1
 if((p==0) or (l==0)):
-    print("no")
+    print("No")
 else:
-    print("yes")
+    print("Yes")

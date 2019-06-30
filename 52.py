@@ -1,4 +1,4 @@
 k=int(input())
-x=['zero','one','two','three','four','five','six','seven','eight','nine','ten']
+x=['Zero','One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
 n=x[k]
 print(n)
